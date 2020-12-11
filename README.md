@@ -8,5 +8,5 @@ My Links:
 * [Twitter](https://twitter.com/twilightzebby)
 * [Tumblr](https://twilightzebby.tumblr.com) (Rarely post on there tho)
 * [Reddit](https://www.reddit.com/user/TwilightZebby)
-* [Twitch](https://www.twitch.tv/twilightzebby) (I don't go live on there, I'd just a mod for Dr1fterX)
+* [Twitch](https://www.twitch.tv/twilightzebby) (I don't go live on there, I'm just a mod for Dr1fterX)
 * [Discord Bot List/Top.gg](https://top.gg/user/156482326887530498)
