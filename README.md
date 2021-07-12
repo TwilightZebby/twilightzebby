@@ -1,7 +1,7 @@
 I am a British programmer who likes to play games, watch Doctor Who or Anime, and code stuff.
-Additionally, I am also part of the Staff/Moderation Team behind Twitch Streamer [Dr1fterX](https://www.twitch.tv/dr1fterx)'s Twitch and Discord Server.
+Additionally, I am also part of the Staff/Moderation Team behind Twitch Streamer [Dr1fterX](https://www.twitch.tv/dr1fterx)'s Twitch Chat and Discord Server; as well as a Bug Squasher on the official [Discord Testers Server](https://discord.gg/discord-testers).
 
-I mainly focus in the language of JavaScript/NodeJS, and have made a *few* Discord Bots using [Discord.JS](https://github.com/discordjs/discord.js). Such bots include my own [EclipseMentions](https://github.com/TwilightZebby/EclipseMentionsBot), Crimson Levels, and other ones which are private. I've also helped Dr1fterX on his own Bots for his Server. Furthermore, I have also made the [House Trivia Bot](https://github.com/TwilightZebby/TriviaBot) and [Actions Bot](https://github.com/TwilightZebby/ActionsBot) for Dr1fterX's Discord, which both make use of Discord's [Slash Command API](https://discord.com/developers/docs/interactions/slash-commands)
+I mainly focus in the language of JavaScript/NodeJS, and have made a *few* Discord Bots using [Discord.JS](https://github.com/discordjs/discord.js). Such bots include my own [EclipseMentions](https://github.com/TwilightZebby/EclipseMentionsBot), [Crimson Levels](https://github.com/TwilightZebby/CrimsonLevelsBot), and other ones which are private. I've also helped Dr1fterX on his own Bots for his Server. Furthermore, I have also made the [House Trivia Bot](https://github.com/TwilightZebby/HouseTriviaBot) and [Actions Bot](https://github.com/TwilightZebby/ActionsBot) for Dr1fterX's Discord.
 
 I am still studying a Computer Science Degree at Uni, so please don't ask for me to make you a Discord Bot because I won't have the time! <3
 
