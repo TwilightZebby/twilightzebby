@@ -9,7 +9,7 @@ I am still studying a Computer Science Degree at Uni, so please don't ask for me
 
 My Links:
 
-* [Twitter](https://twitter.com/twilightzebby)
+* ~~[Twitter](https://twitter.com/twilightzebby)~~ No longer using Twitter.
 * [Tumblr](https://twilightzebby.tumblr.com)
 * [Reddit](https://www.reddit.com/user/TwilightZebby)
 * [Twitch](https://www.twitch.tv/twilightzebby) (I don't go live on there, I'm just a mod for Dr1fterX)
