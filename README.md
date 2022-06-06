@@ -5,7 +5,7 @@ Additionally, I am also part of the Staff/Moderation Team behind Twitch Streamer
 
 I mainly focus in the language of JavaScript/NodeJS, and have made a *few* Discord Bots using [Discord.JS](https://github.com/discordjs/discord.js). Such bots include my own [EclipseMentions](https://github.com/TwilightZebby/EclipseMentionsBot), [Crimson Levels](https://github.com/TwilightZebby/CrimsonLevelsBot), and other ones which are private. I've also helped Dr1fterX on his own Bots (dubbed "St1gBots") for his Discord Server. Furthermore, I have also made the [House Trivia Bot](https://github.com/TwilightZebby/HouseTriviaBot) for Dr1fterX's Discord Server, and [MooBot (formally "Actions Bot")](https://github.com/TwilightZebby/MooBot).
 
-Outside of ClassicJS/NodeJS, I have also dabbled in other languages too; such as Java, PHP, C++, C#, and Python - although my current knowledge of those are very minimal due to only using them within the context of College and University. I am currently beginning to expand my knowledge further, now that I am finishing University in June 2022, by learning React Native and taking a deeper dive into Java.
+Outside of ClassicJS/NodeJS, I have also dabbled in other languages too; such as Java, PHP, C++, C#, and Python - although my current knowledge of those are very minimal due to only using them within the context of College and University.
 
 My Links:
 
