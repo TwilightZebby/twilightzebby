@@ -13,4 +13,10 @@ My Links:
 * [Reddit](https://www.reddit.com/user/TwilightZebby)
 * [Twitch](https://www.twitch.tv/twilightzebby) (I don't go live on there, I'm just a mod for Dr1fterX)
 * [Pronouns.page](https://en.pronouns.page/@Zebby)
-* [Twitter](https://www.twitter.com/twilightzebby) (Archived account, no longer using Twitter)
+* [Twitter](https://www.twitter.com/twilightzebby)
+
+Places I help moderate:
+
+* [Dr1fterX's Twitch Channel](https://www.twitch.tv/dr1fterx) (Rank: Channel Mod)
+* [Dr1fterX's Discord Server](https://discord.gg/URH5E34FZf) (Rank: Admin)
+* [r/prideknights](https://www.reddit.com/r/prideknights/) (Rank: Top/Head Mod)
