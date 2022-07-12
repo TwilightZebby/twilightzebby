@@ -19,4 +19,5 @@ Places I help moderate:
 
 * [Dr1fterX's Twitch Channel](https://www.twitch.tv/dr1fterx) (Rank: Channel Mod)
 * [Dr1fterX's Discord Server](https://discord.gg/URH5E34FZf) (Rank: Admin)
+* [r/Dr1fterX](https://www.reddit.com/r/Dr1fterX/) (Rank: Mod)
 * [r/prideknights](https://www.reddit.com/r/prideknights/) (Rank: Top/Head Mod)
