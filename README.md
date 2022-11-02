@@ -14,7 +14,7 @@ My Links:
 * [Twitch](https://www.twitch.tv/twilightzebby) (I don't go live on there, I'm just a mod for Dr1fterX)
 * [Pronouns.page](https://en.pronouns.page/@Zebby)
 * [CoHost.org](https://cohost.org/TwilightZebby)
-* [Twitter](https://www.twitter.com/twilightzebby)
+* ~~[Twitter](https://www.twitter.com/twilightzebby)~~
 
 Places I help moderate:
 
