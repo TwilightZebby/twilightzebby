@@ -16,7 +16,6 @@ My License for **ALL** of my Projects can be [found here](https://github.com/Twi
 My Links:
 
 * [Tumblr](https://twilightzebby.tumblr.com)
-* [Reddit](https://www.reddit.com/user/TwilightZebby)
 * [Twitch](https://www.twitch.tv/twilightzebby) (I don't go live on there, I'm just a mod for Dr1fterX)
 * [Pronouns.page](https://en.pronouns.page/@Zebby)
 * [My Website](https://twilightzebby.github.io)
