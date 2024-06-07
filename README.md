@@ -1,9 +1,11 @@
 He/Him
 
-I am a British programmer who likes to play games, watch Doctor Who or Anime, and code stuff. Also demimale, gay, nerd, and a geek.
+I am a British programmer who likes to play games, watch Doctor Who or Anime, and code stuff.
 Additionally, I am also part of the Staff/Moderation Team behind Twitch Streamer [Dr1fterX](https://www.twitch.tv/dr1fterx)'s Twitch Chat and Discord Server; and one of the Sandwich Server members whom helped Discord make their ["Imagine a Place" short film](https://web.archive.org/web/20210725170051/youtube.com/watch?v=3xOkZ0_Rocs).
 
-I mainly focus in the language of JavaScript/NodeJS, and have made a *few* Discord Server/User Apps using [Discord.JS](https://github.com/discordjs/discord.js). Such Apps include my own [EclipseMentions](https://github.com/TwilightZebby/EclipseMentionsBot), [Crimson Levels](https://github.com/TwilightZebby/CrimsonLevelsBot), [HomeCord](https://github.com/HomeCord/HomeCord), [UserStars](https://github.com/TwilightZebby/UserStars), and other ones which are private. I've also helped Dr1fterX on his own Bots (dubbed "St1gBots") for his Discord Server. Furthermore, I have also made the [House Trivia Bot](https://github.com/TwilightZebby/HouseTriviaBot) for Dr1fterX's Discord Server, and [HeccBot (formally "MooBot"/"Actions Bot")](https://github.com/HeccBot/HeccBot).
+I used to mainly focus in the language of JavaScript/NodeJS, and have made a *few* Discord Server/User Apps using [Discord.JS](https://github.com/discordjs/discord.js). Such Apps include my own [EclipseMentions](https://github.com/TwilightZebby/EclipseMentionsBot), [Crimson Levels](https://github.com/TwilightZebby/CrimsonLevelsBot), [HomeCord](https://github.com/HomeCord/HomeCord), [UserStars](https://github.com/TwilightZebby/UserStars), [HeccBot (formally "MooBot"/"Actions Bot")](https://github.com/HeccBot/HeccBot), and other ones which are private. I've also helped Dr1fterX on his own Bots (dubbed "St1gBots") for his Discord Server.
+
+As of June 2024, I decided to start expanding my horizons, and am now learning Web/Game Development - moving away from developing Discord Server/User Apps completely.
 
 ---
 
@@ -13,8 +15,8 @@ My License for **ALL** of my Projects can be [found here](https://github.com/Twi
 
 My Links:
 
-* [Tumblr](https://twilightzebby.tumblr.com)
 * [Cohost](https://cohost.org/TwilightZebby)
+* [Tumblr](https://twilightzebby.tumblr.com)
 * [Twitch](https://www.twitch.tv/twilightzebby) (I don't go live on there, I'm just a mod for Dr1fterX)
 * [Pronouns.page](https://en.pronouns.page/@Zebby)
 <!--* [My Website](https://twilightzebby.github.io) hiding while I redesign it lol-->
