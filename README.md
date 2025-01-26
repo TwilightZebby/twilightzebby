@@ -5,7 +5,7 @@ Additionally, I am also part of the Staff/Moderation Team behind Twitch Streamer
 
 I used to mainly focus in the language of JavaScript/NodeJS, and have made a *few* Discord Server/User Apps using [Discord.JS](https://github.com/discordjs/discord.js)'s various libraries. Such Apps include my own [EclipseMentions](https://github.com/TwilightZebby/EclipseMentionsBot), [Crimson Levels](https://github.com/TwilightZebby/CrimsonLevelsBot), [HomeCord](https://github.com/HomeCord/HomeCord), [UserStars](https://github.com/TwilightZebby/UserStars), [HeccBot (formally "MooBot"/"Actions Bot")](https://github.com/HeccBot/HeccBot), [TwiLite](https://github.com/TwilightZebby/TwiLite), and other ones which are private. I've also helped Dr1fterX on his own Server Apps (dubbed "St1gBots") for his Discord Server.
 
-While I do still tinker with developing Discord Apps (namely HomeCord & HeccBot), my interests are moving onto other hobby projects within the world of programming.
+While I do still tinker with developing Discord Apps (namely HomeCord, [Welcome Editor](https://github.com/TwilightZebby/WelcomeEditor), and TwiLite), my interests are moving onto other hobby projects within the world of programming.
 
 ---
 
