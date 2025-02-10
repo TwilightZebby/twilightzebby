@@ -18,7 +18,7 @@ My Links:
 * [Personal Discord Server](https://discord.gg/nM7fJ8ZqnK)
 * [Ko-Fi](https://ko-fi.com/twilightzebby)
 * [Tumblr](https://twilightzebby.tumblr.com)
-* [Twitch](https://www.twitch.tv/twilightzebby) (I don't go live on there, I'm just a mod for Dr1fterX)
+* [Twitch](https://www.twitch.tv/twilightzebby)
 * [BlueSky](https://bsky.app/profile/twilightzebby.bsky.social) (Is only used for promoting my stuff I make)
 * [Pronouns.page](https://en.pronouns.page/@Zebby)
 <!--* [My Website](https://twilightzebby.github.io) hiding while I redesign it lol-->
