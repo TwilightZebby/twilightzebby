@@ -17,6 +17,6 @@ My Links:
 * [Ko-Fi](https://ko-fi.com/twilightzebby)
 * [Tumblr](https://twilightzebby.tumblr.com)
 * [Twitch](https://www.twitch.tv/twilightzebby)
-* [BlueSky](https://bsky.app/profile/twilightzebby.bsky.social) (Is only used for promoting my stuff I make)
+* [BlueSky](https://bsky.app/profile/twilightzebby.bsky.social)
 * [Pronouns.page](https://en.pronouns.page/@Zebby)
 * [My Website](https://twilightzebby.github.io)
