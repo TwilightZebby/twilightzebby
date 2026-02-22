@@ -13,7 +13,7 @@ My License for **ALL** of my Projects can be [found here](https://github.com/Twi
 
 My Links:
 
-* [Personal Discord Server](https://discord.gg/nM7fJ8ZqnK)
+* [Personal Discord Server](https://discord.gg/EU97z7bhhx)
 * [Ko-Fi](https://ko-fi.com/twilightzebby)
 * [Tumblr](https://twilightzebby.tumblr.com)
 * [Twitch](https://www.twitch.tv/twilightzebby)
